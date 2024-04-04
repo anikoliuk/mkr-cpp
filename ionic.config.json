@@ -1,0 +1,7 @@
+{
+  "name": "mkr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
